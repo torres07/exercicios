@@ -1,0 +1,6 @@
+{
+  "name": "Exercicios de Programação com dicas e respostas.",
+  "tagline": "Exercícios fáceis, simples e bestas pra você virar mestre Jedi C, C++ e Python.",
+  "body": "![](https://github.com/qxcodefup/trabalhos/raw/master/imagens/header.png)\r\n# Exercícios de Programação\r\n\r\nEsse repositório tem por objetivo propor vários exercícios simples de programação. A maioria dos exercícios propostos já vem com as soluções em **C99, C++11 e Python2**.\r\n\r\n### Exercícios\r\n\r\n[Joguinhos](00_joguinhos.md)\r\n\r\n[Condicionais](01_condicionais.md)\r\n\r\n[Laço](02_laco.md)\r\n\r\n[Vetores](03_vetores.md)\r\n\r\n[String](04_strings.md)\r\n\r\n[Recursão](08_recursividade.md)\r\n\r\n[Funções](09_funcoes.md)\r\n\r\n### IDEs\r\n[Configure sua IDE.](ides/Readme.md)\r\n\r\n### Baixando para estudar offline\r\n[Baixando e estudando offline.](offline/Readme.md)\r\n\r\n### Última sugestão\r\n\r\nTente fazer a atividade e se você tiver problemas, dê uma olhadinha no exemplo. Programar se aprende programando, os exercícios resolvidos só vão lhe ajudar se você se ajudar.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
